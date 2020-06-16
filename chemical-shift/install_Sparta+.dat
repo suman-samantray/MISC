@@ -1,0 +1,5 @@
+To install Sparta+ :
+1) Follow this link: https://spin.niddk.nih.gov/bax/software/SPARTA+/
+2) After installing, open the home/xxx/SPARTA+/sparta+Init.com file. Make it bash compatible.
+	2.1) comment all the lines, and add "export SPARTAP_DIR=/home/xxx/Desktop/SPARTA+" (the installation location of Sparta software)
+3) Reboot PC.
